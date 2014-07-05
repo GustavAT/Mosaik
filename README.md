@@ -5,5 +5,5 @@ Mosaik
 
 von Andreas Tscheinig, Christof Bachmann und Peter Waysocher
 
-This is a TEST TEXT
+This is a  TEXT
 MÄH
